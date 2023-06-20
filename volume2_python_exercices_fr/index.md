@@ -1,4 +1,4 @@
-# Solutionnaires du livre Python par la pratique
+# Exercices en Python
 
 ![Couverture du livre](images/cover_livre_python_exercices.jpg)
 
