@@ -4,7 +4,7 @@
 
 ## Description
 
-Ce référentiel contient le code source et les exemples de programmation pour le livre "Exercices en Python". 
+Ce référentiel contient les vidéos et le lien vers le code source et les exemples de programmation pour le livre "Exercices en Python". 
 
 Il est destiné aux vrais débutants en programmation et aux enseignants et formateurs  à la recherche d’une  collection d’exercices pour les travaux dirigés.
 
