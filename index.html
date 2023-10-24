@@ -2,7 +2,22 @@
 layout: default
 title: Main page
 ---
-
+<!DOCTYPE html>
+<html lang="{{ site.lang }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="{% t site.description %}"/>
+    <meta name="keywords" content="{% t site.keywords %}"/>
+    <title>{% t site.name %} - {% t site.tagline %}</title>
+</head>
+<body>
+<section id="{% t main.welcomeSection.anchor%}">
+        <div>
+            <h2>{% t main.welcomeSection.heading %}</h2>
+            <p>{% t main.welcomeSection.p1 %}</p>
+        </div>
+    </section>
+	
 		<div class="blurb">
 		<span style="letter-spacing:0.25em;" class="wixui-rich-text__text">Hafed Benteftifa</span>
 			<h1>Série: Intelligence artificielle par la pratique  </h1>
@@ -19,3 +34,5 @@ title: Main page
 			  <p>Volume 4:<a href="/volume1_python_en">Python </a></p>
 
 		</div> 
+</body>
+</html>

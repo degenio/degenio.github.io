@@ -1,7 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ site.lang }}">
   <head>
-    <title>{{ page.title }}</title>
+    <meta charset="utf-8">
+    <meta name="description" content="{% t site.description %}"/>
+    <meta name="keywords" content="{% t site.keywords %}"/>
+    <title>{% t site.name %} - {% t site.tagline %}</title>
     
     <link rel="stylesheet" type="text/css" href="/css/main.css">
 	  <link rel="stylesheet" type="text/css" href="/css/bootstrap.css" />
@@ -17,8 +20,9 @@
 <ul>
 <li><a href="/">Home</a></li>
 <li><a href="/about">About</a></li>
+<li><a href="/about">Livres</a></li>
 <li><a href="/videos">videos</a></li>
-<li><a href="/blog">Blog</a></li>
+<li><a href="/blog">Contact</a></li>
 </ul>
     </nav>
 <div class="container">
@@ -29,7 +33,6 @@
   
   <footer>
    <ul>
-   <li><a href="mailto:info@degenio.com">email</a></li>
    <li><a href="https://github.com/degenio">github.com/degenio</a></li>
    </ul>
   </footer>

@@ -1,0 +1,11 @@
+site:
+  name: Books by Dr Hafed Benteftifa
+  tagline: Hafed's books
+  description: All the books written by Dr Hafed Benteftifa, a series in Artificial intelligence
+  keywords: Bneteftifa, AI, Books
+
+main:
+  welcomeSection:
+    anchor: welcome
+    heading: Welcome to Dr Hafed Benteftifa website.
+    p1: A series in artificial Intelligence
