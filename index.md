@@ -1,4 +1,9 @@
-<!DOCTYPE html>
+---
+layout: page
+title: Hello World!
+tagline: Supporting tagline
+---
+{% include JB/setup %}
 <html lang="en"> 
 <head>
     <title>DevBook - Bootstrap 5 Book/eBook Landing Page Template For Developers</title>
