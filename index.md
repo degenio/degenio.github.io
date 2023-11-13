@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Par Hafed Benteftifa, enseignant au collège de Bois-de-Boulogne
 ---
-{% include JB/setup %}
 <html lang="en"> 
 <head>
     <title>DevBook - Bootstrap 5 Book/eBook Landing Page Template For Developers</title>
@@ -45,10 +43,10 @@ tagline: Supporting tagline
 			    <div class="col-12 col-md-7 pt-5 mb-5 align-self-center">
 				    <div class="promo pe-md-3 pe-lg-5">
 					    <h1 class="headline mb-3">
-						    Free Book &amp; eBook <br>Landing Page Template   
+						    Une série de livres pratiques en intelligence artificielle 
 					    </h1><!--//headline-->
 					    <div class="subheadline mb-4">
-						    A free Bootstrap 5 template for developers and programmers who want to self-publish books. Download now and start selling your book right away!
+						    Le nécessaire pour acquérir les compétences nécessaires pour les praticiens en IA!
 						    
 					    </div><!--//subheading-->
 					    
