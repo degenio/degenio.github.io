@@ -1,6 +1,6 @@
 <html lang="en"> 
 <head>
-    <title>DevBook - Bootstrap 5 Book/eBook Landing Page Template For Developers</title>
+    <title>Livres de Hafed Benteftifa</title>
     
     <!-- Meta -->
     <meta charset="utf-8">
@@ -26,8 +26,7 @@
         <div class="branding">
             <div class="container-fluid position-relative py-3">
                 <div class="logo-wrapper">
-	                <div class="site-logo"><a class="navbar-brand" href="index.html"><img class="logo-icon me-2" src="assets/images/site-logo.svg" alt="logo" ><span class="logo-text">DevBook</span></a></div>    
-                </div><!--//docs-logo-wrapper-->
+	                       </div><!--//docs-logo-wrapper-->
 	        
             </div><!--//container-->
         </div><!--//branding-->
