@@ -1,7 +1,3 @@
----
-layout: page
-title: Par Hafed Benteftifa, enseignant au collège de Bois-de-Boulogne
----
 <html lang="en"> 
 <head>
     <title>DevBook - Bootstrap 5 Book/eBook Landing Page Template For Developers</title>
@@ -42,6 +38,7 @@ title: Par Hafed Benteftifa, enseignant au collège de Bois-de-Boulogne
 		    <div class="row">
 			    <div class="col-12 col-md-7 pt-5 mb-5 align-self-center">
 				    <div class="promo pe-md-3 pe-lg-5">
+					<p class="headline-toptitle">Par Hafed Benteftifa, enseignant au collège de Bois-de-Boulogne</p>
 					    <h1 class="headline mb-3">
 						    Une série de livres pratiques en intelligence artificielle 
 					    </h1><!--//headline-->
